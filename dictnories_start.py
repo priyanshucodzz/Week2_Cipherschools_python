@@ -1,5 +1,5 @@
 user_info={
-    "name": "satish",
+    "name": "Priyanshu",
     "fav_anime":["one piece","Naruto","Dragon Ball Z","Attack on titan","Demon slayer"],
     "fav_movie":"the dark knight",
 
